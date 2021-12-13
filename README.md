@@ -29,7 +29,7 @@ There is also a version available on Kaggle. https://www.kaggle.com/ronitf/heart
 This is where we'll get different information about each of the features in our data.
 
 **Create data dictionary**
->>
+
   1. age - age in years 
   2. sex - (1 = male; 0 = female) 
   3. cp - chest pain type 
